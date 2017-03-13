@@ -1,0 +1,4 @@
+### Target: targets/tble
+target.app: "apps/bleprph"
+target.bsp: "@apache-mynewt-core/hw/bsp/nrf52dk"
+target.build_profile: "optimized"
